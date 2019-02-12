@@ -157,3 +157,5 @@ Find bug in commit history in a binary search tree style:
 git bisect start
 git bisect good
 git bisect bad
+Clone Particular branch from Git
+git clone -b <branchname> <clone-url>
